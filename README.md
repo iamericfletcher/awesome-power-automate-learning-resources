@@ -29,6 +29,8 @@
 
 ### YouTube
 
+- [Programming with Harry](https://www.youtube.com/c/ProgrammingWithHarry/featured) - YouTube channel created by Harry. Topics include Django, generators, list comprehension, functions, recursion, loops, strings, and object oriented programming.
+
 - [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) - YouTube channel created by Andrew Couch. Topics include Python programming, game development, pygame, Java Tutorials and Machine Learning.
 
 ### Contributing

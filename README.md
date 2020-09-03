@@ -17,13 +17,9 @@
 
 ## Resources 
 
-*Add Resources*
-
 ### Blogs
 
 ### Books
-
-- [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) - This book is intended to guide people that are completely new to programming along a path towards a useful skill level using R. Author: Derek L. Sonderegger.
 
 ### Communities of Practice
 
@@ -33,7 +29,7 @@
 
 ### YouTube
 
-- [Tech with Time](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) - YouTube channel created by Andrew Couch. Topics include Python programming, game development, pygame, Java Tutorials and Machine Learning.
+- [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) - YouTube channel created by Andrew Couch. Topics include Python programming, game development, pygame, Java Tutorials and Machine Learning.
 
 ### Contributing
 - Your contributions are always welcome! Please visit our [contributing.md](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.

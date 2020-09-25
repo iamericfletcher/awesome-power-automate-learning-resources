@@ -4,11 +4,11 @@
 
 - Before creating a PR, you should ensure that:
 
-1. Your suggestion is related to the `Microsoft Power Automate` service. This list is meant for the curation of the best resources, not everything.
+1. Your suggestion is related to the `Microsoft Power Automate` service. This list is meant for the curation of awesome resources, not everything.
 
 2. Your suggestion is not already in the list.
 
-3. Your suggestion should be added alphabetically by title to the appropriate category if it already exists. If needed, feel free to include a new category.
+3. Your suggestion will be added alphabetically by title to the appropriate category if it already exists. If needed, feel free to include a new category. Please make sure to include which category you'd like your contibution to be added to.
 
 4. There are no spelling or grammatical errors.
 

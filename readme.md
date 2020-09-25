@@ -1,6 +1,6 @@
 # <div align="center">Awesome Microsoft Power Automate Learning Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</div>
  
-> Useful `Microsoft Power Automate` learning resources meant to help users from all skill levels and backgrounds deepen their understanding of `Microsoft Power Automate`, resulting in a more knowledgable programming population that benefits everybody involved.
+> Useful `Microsoft Power Automate` learning resources meant to help users from all skill levels and backgrounds deepen their understanding of `Microsoft Power Automate`, resulting in a more knowledgable user population that benefits everybody involved.
  
 `Microsoft Power Automate` is a service that helps you create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data, and more.
 

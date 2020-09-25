@@ -2,7 +2,7 @@
  
 > Useful `Microsoft Power Automate` learning resources meant to help users from all skill levels and backgrounds deepen their understanding of `Microsoft Power Automate`, resulting in a more knowledgable user population that benefits everybody involved.
  
-`Microsoft Power Automate` is a service that helps you create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data, and more.
+`Microsoft Power Automate`, previously Microsoft Flow, is a service that helps you create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data, and more.
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/iamericfletcher/R-Learning-Resources) | ![GitHub last commit](https://img.shields.io/github/last-commit/iamericfletcher/R-Learning-Resources) | [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fiamericfletcher%2FR-Learning-Resources)
 

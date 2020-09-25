@@ -1,6 +1,6 @@
 ## Contribution Guide
 
-- Have a favorite piece you're not seeing here? Want to contribute? Make a [pull request (PR)](https://github.com/iamericfletcher/R-Learning-Resources/pulls)! 😄
+- Have a favorite piece you're not seeing here? Want to contribute? Make a [pull request (PR)](https://github.com/iamericfletcher/awesome-power-automate-learning-resources/pulls)! 😄
 
 - Before creating a PR, you should ensure that:
 

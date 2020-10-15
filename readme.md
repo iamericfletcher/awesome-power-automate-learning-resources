@@ -45,7 +45,7 @@
 
 ## Useful Flows
 
-- [Smart Out of Office with Power Automate](https://www.linkedin.com/pulse/smart-out-office-microsoft-flow-marc-de-kleijn/)
+- [Smart Out of Office with Power Automate](https://www.linkedin.com/pulse/smart-out-office-microsoft-flow-marc-de-kleijn/) - If a calendar event subject contains a specific phrase (for example PTO) it will turn on the Out of Office for the duration you specify.
 
 ## YouTube
 

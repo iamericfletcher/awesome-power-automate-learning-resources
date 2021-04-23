@@ -21,6 +21,8 @@
 
 ## Articles
 
+- [Common Filters for Microsoft Flow: A Reference Chart for Users of all Kinds](https://blog.ion.works/2019/03/17/common-odata-filters-for-microsoft-flow-a-reference-chart-for-users-of-all-kinds/) - When you need to grab items from SharePoint using Microsoft Flow, sometimes you don’t need EVERY item. Here are a few filters you can apply to get just what you’re looking for.
+
 - [Microsoft Power Automate section of C# Corner](https://www.c-sharpcorner.com/technologies/power-automate) - Various Microsoft Power Automate related source code samples, articles, tutorials, and tips.
 
 ## Blogs

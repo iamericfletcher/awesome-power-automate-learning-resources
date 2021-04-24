@@ -74,9 +74,11 @@
 
 ## Utilities
 
-- [Flow Studio](https://flow-studio.azurewebsites.net/flows) - Powerful suite of tools for flow debugging, development and administration - robust free and premium plans available
+- [Adaptive Card Designer](https://adaptivecards.io/designer/) - Web utility for crafting adaptive cards, which can be used with Automate to send and receive information with Teams, Outlook, and more.
 
-- [Adaptive Card Designer](https://adaptivecards.io/designer/) - Web utility for crafting adaptive cards, which can be used with Automate to send and receive information with Teams, Outlook, and more
+- [Flow Studio](https://flow-studio.azurewebsites.net/flows) - Powerful suite of tools for flow debugging, development and administration - robust free and premium plans available.
+
+- [Flow to Visio](https://www.xrmtoolbox.com/plugins/LinkeD365.FlowToVisio/) - A XrmToolBox tool to create Visio diagram of your Power Automate Flows that are within your CDS.
 
 ## Contributing
 

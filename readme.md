@@ -15,6 +15,7 @@
   - [Podcasts](#podcasts)
   - [Tutorials and Courses](#tutorials-and-courses)
   - [Useful Flows](#useful-flows)
+  - [Utilities](#utilities)
   - [YouTube](#youtube)
   - [Uncategorized](#uncategorized)
   - [Contributing](#contributing)
@@ -29,9 +30,6 @@
 - [Flow Alt Delete](https://flowaltdelete.ca/) - Josh Cook's blog features a collection of detailed flow tutorials and walkthroughs.
 - [Let's POWER Automate](https://tomriha.com/) - Tom Riha's blog features a collection of detailed flow tutorials and walkthroughs.
 - [Microsoft's Power Automate Blog](https://flow.microsoft.com/en-us/blog/) - Latest news and updates regarding the Power Automate service.
-- [Sharepains by Pieter Veenstra](https://sharepains.com/) - Articles, guides and troubleshooting tips for Office 365, Power Platform, SharePoint, Azure and Dynamics
-
-Office 365, Power Platform, SharePoint, Azure and Dynamics]
 
 ## Books
 

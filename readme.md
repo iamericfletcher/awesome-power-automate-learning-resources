@@ -29,6 +29,9 @@
 - [Flow Alt Delete](https://flowaltdelete.ca/) - Josh Cook's blog features a collection of detailed flow tutorials and walkthroughs.
 - [Let's POWER Automate](https://tomriha.com/) - Tom Riha's blog features a collection of detailed flow tutorials and walkthroughs.
 - [Microsoft's Power Automate Blog](https://flow.microsoft.com/en-us/blog/) - Latest news and updates regarding the Power Automate service.
+- [Sharepains by Pieter Veenstra](https://sharepains.com/) - Articles, guides and troubleshooting tips for Office 365, Power Platform, SharePoint, Azure and Dynamics
+
+Office 365, Power Platform, SharePoint, Azure and Dynamics]
 
 ## Books
 
@@ -70,6 +73,12 @@
 - [Microsoft's Power Automate Product Roadmap](https://flow.microsoft.com/en-us/roadmap/) - The public product roadmap provides a glimpse into what will be made available in the next wave of product updates.
 
 - [Reddit - Microsoft Power Automate Subreddit](https://www.reddit.com/r/MicrosoftFlow/) - A Place to discuss, share and problem solve all things Microsoft Power Automate related.
+
+## Utilities
+
+- [Flow Studio](https://flow-studio.azurewebsites.net/flows) - Powerful suite of tools for flow debugging, development and administration - robust free and premium plans available
+
+- [Adaptive Card Designer](https://adaptivecards.io/designer/) - Web utility for crafting adaptive cards, which can be used with Automate to send and receive information with Teams, Outlook, and more
 
 ## Contributing
 

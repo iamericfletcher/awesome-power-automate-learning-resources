@@ -86,6 +86,6 @@ Have some awesome Power Automate learning resources to contribute to the reposit
 
 ## Contributing
 
-- Your contributions are always welcome! Please visit our [contributing.md](https://github.com/iamericfletcher/awesome-power-automate-learning-resources/blob/master/contributing.md) to learn how to contribute to this list.
+- Have some awesome Power Automate learning resources to contribute to the repository? Please visit our [pull request template](https://github.com/iamericfletcher/awesome-power-automate-learning-resources/blob/master/pull_request_template.md) to learn about how to submit a properly formatted Pull Request! 
 
 [Back to Top](#contents)

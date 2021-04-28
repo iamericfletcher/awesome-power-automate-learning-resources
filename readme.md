@@ -4,7 +4,7 @@
  
 `Microsoft Power Automate`, previously Microsoft Flow, is a service that helps you create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data, and more.
 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/iamericfletcher/R-Learning-Resources) | ![GitHub last commit](https://img.shields.io/github/last-commit/iamericfletcher/R-Learning-Resources) | [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fiamericfletcher%2FR-Learning-Resources)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/iamericfletcher/awesome-power-automate-learning-resources) | ![GitHub last commit](https://img.shields.io/github/last-commit/iamericfletcher/awesome-power-automate-learning-resources) | [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://github.com/ernestobarrera/awesome-power-automate-learning-resources)
 
 Have some awesome Power Automate learning resources to contribute to the repository? Please visit our [contributing guide](https://github.com/iamericfletcher/awesome-power-automate-learning-resources/blob/master/contributing.md) to learn about how to submit a properly formatted Pull Request! 
 
@@ -63,6 +63,8 @@ Have some awesome Power Automate learning resources to contribute to the reposit
 - [Jon Levesque Tech](https://www.youtube.com/c/JonLSeattle/playlists) - YouTube channel created by Jon Levesque. Topics include: UI flows, connector tutorials, export / import, expressions, SharePoint integration, triggers, and document approvals.
 
 - [kalmstrom.com](https://www.youtube.com/playlist?list=PLvmwu6WYeFdh7B6PO_if-CyikdAaqqLlW) - SharePoint Flows from Scratch playlist includes the following tutorials: Approval flow, Update title flow for SharePoint libraries, Merge data from multiple forms into one SharePoint list, Calculate sums in SharePoint lists, New staff tasks flow, SharePoint reminder flow for contract renewals, Add forms results to SharePoint list, Flow to automate toDos for new employees, Flow that sends a scheduled report with SharePoint data, and more.
+
+- [Learning Technologies (YouTube playlist)](https://www.youtube.com/playlist?list=PLZVSOFwGx4zDK7apie3GqgfX6Tu2kmpMA) - Microsoft Power Automate Desktop Tutorials from Beginners to Expert. Topics include: More than 90 videos about installation, automation, flows with Excel, databases, files and desktop programs and more.
 
 - [Reza Dorrani](https://www.youtube.com/c/RezaDorrani/playlists) - YouTube channel created by Reza Dorrani. Topics include: flows, triggers, automate the process of data entry into a legacy desktop application, approval workflow basics.
 

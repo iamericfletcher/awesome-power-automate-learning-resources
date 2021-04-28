@@ -6,7 +6,7 @@
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/iamericfletcher/awesome-power-automate-learning-resources) | ![GitHub last commit](https://img.shields.io/github/last-commit/iamericfletcher/awesome-power-automate-learning-resources) | [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://github.com/ernestobarrera/awesome-power-automate-learning-resources)
 
-Have some awesome Power Automate learning resources to contribute to the repository? Please visit our [contributing guide](https://github.com/iamericfletcher/awesome-power-automate-learning-resources/blob/master/contributing.md) to learn about how to submit a properly formatted Pull Request! 
+Have some awesome Power Automate learning resources to contribute to the repository? Please visit our [pull request template](https://github.com/iamericfletcher/awesome-power-automate-learning-resources/blob/master/pull_request_template.md) to learn about how to submit a properly formatted Pull Request! 
 
 ## **Contents**
   - [Articles](#articles)
